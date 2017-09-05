@@ -5,6 +5,7 @@ basedockers = [
     'tensorflow/tensorflow:1.3.0-devel-gpu',
     'tensorflow/tensorflow:1.3.0-devel-py3',
     'tensorflow/tensorflow:1.3.0-devel',
+    'floydhub/pytorch:0.2.0-gpu-py3.11'
 ]
 
 

@@ -22,8 +22,10 @@ https://hub.docker.com/r/ildoonet/pysc2/
 
 ### Representative Images
 
+See official docker hub : https://hub.docker.com/r/ildoonet/pysc2/ 
+
 - ildoonet/pysc2:tensorflow-1.3.0-devel-gpu-py3
-- ildoonet/pysc2:tensorflow-1.3.0-devel-py3
+- ildoonet/pysc2:pytorch-0.2.0-gpu-py3.11
 
 ## References
 
