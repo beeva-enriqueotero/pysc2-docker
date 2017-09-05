@@ -30,6 +30,8 @@ See official docker hub : https://hub.docker.com/r/ildoonet/pysc2/
 ## References
 
 [1] https://github.com/whizzzkid/opencv-complete-build-cuda/
+
 [2] https://github.com/deepmind/pysc2
+
 [3] https://github.com/Blizzard/s2client-proto
 
