@@ -4,7 +4,7 @@ Dockerize PySC2 Environment from Deepmind&amp;Blizzard with tensorflow, opencv
 - DeepMinds pysc2 Repo : https://github.com/deepmind/pysc2
 - Blizzard StarCraft II Binary : https://github.com/Blizzard/s2client-proto#downloads
 
-**You agree to be by the terms fo the [AI and Machine Learning License](http://blzdistsc2-a.akamaihd.net/AI_AND_MACHINE_LEARNING_LICENSE.html) from Blizzard Repository**
+**By using this docker image, you agree to be bound by the terms fo the [AI and Machine Learning License](http://blzdistsc2-a.akamaihd.net/AI_AND_MACHINE_LEARNING_LICENSE.html) from Blizzard Repository**
 
 ## Environment
 
