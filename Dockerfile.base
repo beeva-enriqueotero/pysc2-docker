@@ -10,7 +10,7 @@ curl -fsSL http://bit.ly/OpenCV-Latest | bash -s /opencv-build && \
 rm -rf /opencv-build
 
 RUN wget http://blzdistsc2-a.akamaihd.net/Linux/SC2.3.16.1.zip && \
-unzip -P iagreetotheeula SC2.3.16.1.zip -d ~/StarCraftII/ && \
+unzip -P iagreetotheeula SC2.3.16.1.zip -d ~/ && \
 wget http://blzdistsc2-a.akamaihd.net/MapPacks/Ladder2017Season1.zip && \
 wget http://blzdistsc2-a.akamaihd.net/MapPacks/Ladder2017Season2.zip && \
 wget http://blzdistsc2-a.akamaihd.net/MapPacks/Ladder2017Season3.zip && \
